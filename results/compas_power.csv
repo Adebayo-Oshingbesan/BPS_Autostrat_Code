@@ -1,0 +1,101 @@
+0,1
+"{'race': ['Hispanic', 'Other'], 'priors_count': ['1.0 - 2.0', '2.0 - 3.0', '3.0 - 4.0', '4.0 - 8.0'], 'sex': ['Female'], 'age_cat': ['25 - 45']}",4.5078
+"{'priors_count': ['-0.0 - 1.0', '3.0 - 4.0'], 'sex': ['Female'], 'race': ['African-American', 'Hispanic'], 'age_cat': ['25 - 45'], 'c_charge_degree': ['F']}",7.193
+"{'priors_count': ['2.0 - 3.0', '3.0 - 4.0', '4.0 - 8.0'], 'c_charge_degree': ['F'], 'sex': ['Female'], 'race': ['Hispanic', 'Other']}",4.7575
+"{'c_charge_degree': ['F'], 'priors_count': ['2.0 - 3.0', '4.0 - 8.0', '8.0 - 38.0'], 'sex': ['Male'], 'age_cat': ['Less than 25'], 'race': ['Caucasian']}",4.814
+"{'race': ['Asian', 'Hispanic', 'Native American'], 'age_cat': ['25 - 45'], 'priors_count': ['-0.0 - 1.0', '1.0 - 2.0', '3.0 - 4.0', '4.0 - 8.0'], 'c_charge_degree': ['M']}",5.2083
+"{'priors_count': ['-0.0 - 1.0', '3.0 - 4.0', '8.0 - 38.0'], 'c_charge_degree': ['F'], 'race': ['Asian']}",5.9763
+"{'race': ['African-American', 'Caucasian', 'Other'], 'sex': ['Male'], 'age_cat': ['Greater than 45', 'Less than 25'], 'priors_count': ['2.0 - 3.0'], 'c_charge_degree': ['F']}",7.5533
+"{'priors_count': ['-0.0 - 1.0', '1.0 - 2.0', '2.0 - 3.0'], 'c_charge_degree': ['F'], 'sex': ['Male'], 'race': ['African-American', 'Caucasian', 'Native American']}",3.5011
+"{'age_cat': ['25 - 45', 'Less than 25'], 'priors_count': ['-0.0 - 1.0'], 'c_charge_degree': ['M'], 'sex': ['Female'], 'race': ['Hispanic']}",6.0738
+"{'race': ['Asian', 'Caucasian', 'Hispanic'], 'sex': ['Male'], 'priors_count': ['1.0 - 2.0', '4.0 - 8.0'], 'c_charge_degree': ['M']}",5.9632
+"{'priors_count': ['1.0 - 2.0', '3.0 - 4.0', '8.0 - 38.0'], 'c_charge_degree': ['F'], 'sex': ['Female'], 'race': ['African-American', 'Hispanic']}",3.9722
+"{'priors_count': ['1.0 - 2.0', '2.0 - 3.0', '3.0 - 4.0'], 'sex': ['Female'], 'race': ['Other'], 'age_cat': ['25 - 45']}",4.0732
+"{'c_charge_degree': ['F'], 'priors_count': ['1.0 - 2.0'], 'sex': ['Female'], 'age_cat': ['25 - 45', 'Less than 25'], 'race': ['Hispanic']}",6.3466
+"{'priors_count': ['1.0 - 2.0', '2.0 - 3.0', '8.0 - 38.0'], 'race': ['Native American', 'Other'], 'age_cat': ['25 - 45', 'Less than 25'], 'c_charge_degree': ['F']}",12.615
+"{'race': ['Asian', 'Other'], 'age_cat': ['Greater than 45', 'Less than 25'], 'priors_count': ['-0.0 - 1.0', '1.0 - 2.0', '2.0 - 3.0', '4.0 - 8.0', '8.0 - 38.0'], 'c_charge_degree': ['F']}",6.5167
+"{'race': ['Caucasian', 'Hispanic'], 'age_cat': ['25 - 45'], 'priors_count': ['1.0 - 2.0', '8.0 - 38.0'], 'sex': ['Female']}",10.8749
+"{'age_cat': ['Greater than 45'], 'priors_count': ['3.0 - 4.0', '4.0 - 8.0', '8.0 - 38.0'], 'c_charge_degree': ['F'], 'race': ['Caucasian', 'Hispanic', 'Other']}",6.7531
+"{'race': ['African-American', 'Caucasian', 'Other'], 'sex': ['Male'], 'age_cat': ['Greater than 45', 'Less than 25'], 'priors_count': ['4.0 - 8.0', '8.0 - 38.0'], 'c_charge_degree': ['M']}",4.3141
+"{'race': ['African-American', 'Other'], 'sex': ['Female'], 'age_cat': ['Less than 25'], 'priors_count': ['-0.0 - 1.0', '3.0 - 4.0'], 'c_charge_degree': ['F']}",4.2955
+"{'race': ['African-American', 'Native American', 'Other'], 'sex': ['Male'], 'age_cat': ['25 - 45', 'Greater than 45'], 'priors_count': ['-0.0 - 1.0', '1.0 - 2.0', '8.0 - 38.0'], 'c_charge_degree': ['M']}",7.2879
+"{'priors_count': ['1.0 - 2.0', '3.0 - 4.0'], 'sex': ['Male'], 'race': ['Asian', 'Other'], 'age_cat': ['25 - 45', 'Greater than 45'], 'c_charge_degree': ['F']}",5.2148
+"{'age_cat': ['25 - 45', 'Less than 25'], 'priors_count': ['-0.0 - 1.0'], 'c_charge_degree': ['M'], 'sex': ['Female'], 'race': ['Other']}",6.6618
+"{'race': ['African-American', 'Asian', 'Caucasian'], 'age_cat': ['25 - 45', 'Less than 25'], 'priors_count': ['-0.0 - 1.0', '2.0 - 3.0', '4.0 - 8.0', '8.0 - 38.0'], 'c_charge_degree': ['F'], 'sex': ['Female']}",5.0745
+"{'age_cat': ['25 - 45', 'Greater than 45'], 'priors_count': ['1.0 - 2.0', '8.0 - 38.0'], 'c_charge_degree': ['M'], 'sex': ['Male'], 'race': ['Caucasian', 'Native American']}",8.8293
+"{'age_cat': ['25 - 45', 'Greater than 45'], 'priors_count': ['1.0 - 2.0', '3.0 - 4.0'], 'c_charge_degree': ['M'], 'sex': ['Female'], 'race': ['Caucasian', 'Other']}",7.033
+"{'priors_count': ['-0.0 - 1.0', '1.0 - 2.0', '4.0 - 8.0'], 'race': ['Caucasian', 'Hispanic', 'Native American'], 'age_cat': ['25 - 45'], 'c_charge_degree': ['M']}",7.7881
+"{'race': ['Caucasian', 'Hispanic'], 'age_cat': ['Less than 25'], 'priors_count': ['1.0 - 2.0', '3.0 - 4.0'], 'c_charge_degree': ['M']}",5.9753
+"{'race': ['Asian', 'Other'], 'age_cat': ['25 - 45', 'Less than 25'], 'priors_count': ['3.0 - 4.0', '8.0 - 38.0']}",5.9753
+"{'priors_count': ['-0.0 - 1.0', '1.0 - 2.0', '2.0 - 3.0', '3.0 - 4.0', '8.0 - 38.0'], 'sex': ['Male'], 'age_cat': ['25 - 45'], 'race': ['Hispanic', 'Native American', 'Other']}",9.3471
+"{'priors_count': ['-0.0 - 1.0', '1.0 - 2.0', '3.0 - 4.0'], 'c_charge_degree': ['F'], 'sex': ['Female'], 'age_cat': ['Greater than 45', 'Less than 25'], 'race': ['Caucasian', 'Other']}",5.3526
+"{'priors_count': ['3.0 - 4.0'], 'c_charge_degree': ['F'], 'age_cat': ['Greater than 45', 'Less than 25'], 'race': ['African-American', 'Caucasian']}",5.5549
+"{'priors_count': ['-0.0 - 1.0', '1.0 - 2.0', '8.0 - 38.0'], 'c_charge_degree': ['M'], 'sex': ['Male'], 'race': ['African-American', 'Asian', 'Hispanic', 'Native American', 'Other']}",7.788
+"{'age_cat': ['25 - 45'], 'priors_count': ['-0.0 - 1.0', '2.0 - 3.0', '3.0 - 4.0', '8.0 - 38.0'], 'c_charge_degree': ['M'], 'race': ['African-American']}",6.5049
+"{'age_cat': ['25 - 45', 'Greater than 45'], 'priors_count': ['1.0 - 2.0', '2.0 - 3.0', '4.0 - 8.0'], 'c_charge_degree': ['M'], 'race': ['Caucasian']}",4.8892
+"{'race': ['Other'], 'sex': ['Female'], 'age_cat': ['25 - 45', 'Less than 25'], 'priors_count': ['-0.0 - 1.0', '1.0 - 2.0'], 'c_charge_degree': ['M']}",3.8666
+"{'race': ['Asian', 'Other'], 'priors_count': ['-0.0 - 1.0', '2.0 - 3.0', '3.0 - 4.0', '4.0 - 8.0'], 'c_charge_degree': ['F']}",7.865
+"{'race': ['Other'], 'age_cat': ['25 - 45'], 'priors_count': ['3.0 - 4.0']}",6.3496
+"{'priors_count': ['-0.0 - 1.0', '1.0 - 2.0', '4.0 - 8.0'], 'c_charge_degree': ['F'], 'age_cat': ['25 - 45', 'Less than 25'], 'race': ['Asian', 'Native American']}",5.5615
+"{'priors_count': ['-0.0 - 1.0', '2.0 - 3.0', '3.0 - 4.0'], 'sex': ['Male'], 'race': ['Asian', 'Caucasian', 'Native American', 'Other'], 'age_cat': ['25 - 45', 'Greater than 45']}",4.9477
+"{'priors_count': ['3.0 - 4.0', '4.0 - 8.0', '8.0 - 38.0'], 'c_charge_degree': ['F'], 'sex': ['Female'], 'race': ['Hispanic']}",6.8807
+"{'race': ['Caucasian', 'Hispanic', 'Native American'], 'sex': ['Male'], 'priors_count': ['-0.0 - 1.0', '1.0 - 2.0'], 'c_charge_degree': ['M']}",5.6338
+"{'race': ['Asian', 'Hispanic', 'Native American', 'Other'], 'age_cat': ['25 - 45', 'Less than 25'], 'priors_count': ['-0.0 - 1.0', '2.0 - 3.0'], 'c_charge_degree': ['F']}",5.7421
+"{'race': ['African-American'], 'age_cat': ['25 - 45'], 'priors_count': ['-0.0 - 1.0'], 'c_charge_degree': ['M'], 'sex': ['Female']}",5.6732
+"{'age_cat': ['25 - 45', 'Less than 25'], 'priors_count': ['-0.0 - 1.0', '2.0 - 3.0', '8.0 - 38.0'], 'c_charge_degree': ['M'], 'race': ['Asian', 'Native American']}",8.1503
+"{'age_cat': ['25 - 45'], 'sex': ['Female'], 'priors_count': ['3.0 - 4.0', '4.0 - 8.0'], 'c_charge_degree': ['M'], 'race': ['African-American', 'Caucasian', 'Other']}",7.7958
+"{'priors_count': ['1.0 - 2.0', '3.0 - 4.0'], 'c_charge_degree': ['F'], 'age_cat': ['Less than 25'], 'race': ['Other']}",6.3476
+"{'c_charge_degree': ['F'], 'priors_count': ['2.0 - 3.0', '8.0 - 38.0'], 'age_cat': ['Less than 25'], 'race': ['Hispanic', 'Other']}",6.3466
+"{'race': ['African-American', 'Hispanic'], 'sex': ['Female'], 'age_cat': ['25 - 45', 'Less than 25'], 'priors_count': ['1.0 - 2.0', '8.0 - 38.0'], 'c_charge_degree': ['M']}",6.1771
+"{'race': ['African-American', 'Native American'], 'age_cat': ['25 - 45'], 'priors_count': ['3.0 - 4.0', '8.0 - 38.0'], 'sex': ['Male']}",5.4042
+"{'priors_count': ['-0.0 - 1.0'], 'sex': ['Female'], 'age_cat': ['25 - 45'], 'race': ['African-American', 'Other']}",4.2262
+"{'race': ['African-American', 'Caucasian', 'Hispanic', 'Native American'], 'age_cat': ['25 - 45', 'Less than 25'], 'priors_count': ['-0.0 - 1.0', '2.0 - 3.0', '3.0 - 4.0'], 'c_charge_degree': ['F'], 'sex': ['Male']}",7.204
+"{'priors_count': ['1.0 - 2.0'], 'sex': ['Female'], 'race': ['Other']}",6.3496
+"{'priors_count': ['-0.0 - 1.0', '1.0 - 2.0', '4.0 - 8.0'], 'sex': ['Female'], 'race': ['African-American', 'Caucasian'], 'age_cat': ['Greater than 45'], 'c_charge_degree': ['F']}",5.1533
+"{'age_cat': ['25 - 45'], 'priors_count': ['3.0 - 4.0', '4.0 - 8.0'], 'c_charge_degree': ['F'], 'sex': ['Male'], 'race': ['African-American', 'Caucasian', 'Other']}",9.8656
+"{'priors_count': ['2.0 - 3.0', '4.0 - 8.0', '8.0 - 38.0'], 'sex': ['Male'], 'race': ['Hispanic', 'Other'], 'age_cat': ['Greater than 45', 'Less than 25'], 'c_charge_degree': ['M']}",5.9723
+"{'priors_count': ['2.0 - 3.0', '3.0 - 4.0'], 'age_cat': ['25 - 45'], 'race': ['Caucasian', 'Hispanic', 'Other']}",4.8902
+"{'priors_count': ['2.0 - 3.0', '4.0 - 8.0'], 'race': ['Other'], 'age_cat': ['25 - 45'], 'c_charge_degree': ['M']}",6.8018
+"{'priors_count': ['-0.0 - 1.0', '1.0 - 2.0', '3.0 - 4.0'], 'sex': ['Female'], 'race': ['Caucasian', 'Hispanic'], 'age_cat': ['Greater than 45', 'Less than 25']}",6.7311
+"{'age_cat': ['Less than 25'], 'race': ['Asian', 'Native American'], 'priors_count': ['-0.0 - 1.0', '1.0 - 2.0']}",11.1121
+"{'priors_count': ['-0.0 - 1.0', '1.0 - 2.0', '4.0 - 8.0', '8.0 - 38.0'], 'c_charge_degree': ['M'], 'race': ['African-American', 'Caucasian']}",5.7411
+"{'age_cat': ['25 - 45'], 'priors_count': ['-0.0 - 1.0', '3.0 - 4.0', '8.0 - 38.0'], 'sex': ['Female'], 'race': ['Hispanic']}",7.2924
+"{'sex': ['Male'], 'age_cat': ['25 - 45', 'Greater than 45'], 'priors_count': ['2.0 - 3.0', '3.0 - 4.0', '4.0 - 8.0', '8.0 - 38.0'], 'race': ['Hispanic']}",4.022
+"{'priors_count': ['-0.0 - 1.0', '2.0 - 3.0', '3.0 - 4.0', '4.0 - 8.0'], 'sex': ['Male'], 'age_cat': ['Greater than 45'], 'race': ['Asian', 'Caucasian', 'Hispanic']}",5.8512
+"{'priors_count': ['-0.0 - 1.0', '3.0 - 4.0'], 'c_charge_degree': ['F'], 'sex': ['Male'], 'age_cat': ['Greater than 45'], 'race': ['African-American', 'Hispanic', 'Other']}",6.1882
+"{'age_cat': ['25 - 45', 'Less than 25'], 'priors_count': ['3.0 - 4.0', '8.0 - 38.0'], 'c_charge_degree': ['M'], 'sex': ['Male'], 'race': ['African-American', 'Caucasian', 'Hispanic', 'Native American']}",4.7698
+"{'c_charge_degree': ['M'], 'sex': ['Male'], 'race': ['Other'], 'age_cat': ['Less than 25']}",7.1794
+"{'priors_count': ['-0.0 - 1.0', '2.0 - 3.0', '4.0 - 8.0'], 'c_charge_degree': ['M'], 'age_cat': ['Less than 25'], 'race': ['Other']}",7.7978
+"{'priors_count': ['-0.0 - 1.0'], 'sex': ['Female'], 'race': ['African-American', 'Hispanic', 'Other'], 'age_cat': ['Less than 25'], 'c_charge_degree': ['F']}",4.6637
+"{'priors_count': ['1.0 - 2.0', '3.0 - 4.0', '8.0 - 38.0'], 'sex': ['Male'], 'race': ['African-American', 'Caucasian', 'Hispanic'], 'age_cat': ['25 - 45', 'Greater than 45'], 'c_charge_degree': ['F']}",6.6977
+"{'age_cat': ['25 - 45', 'Less than 25'], 'priors_count': ['1.0 - 2.0'], 'c_charge_degree': ['F'], 'sex': ['Female'], 'race': ['Caucasian', 'Hispanic']}",5.6442
+"{'race': ['Caucasian', 'Hispanic', 'Native American', 'Other'], 'age_cat': ['25 - 45', 'Greater than 45'], 'priors_count': ['1.0 - 2.0', '2.0 - 3.0', '3.0 - 4.0', '4.0 - 8.0', '8.0 - 38.0'], 'c_charge_degree': ['F'], 'sex': ['Male']}",5.2276
+"{'c_charge_degree': ['F'], 'race': ['African-American', 'Hispanic'], 'age_cat': ['Greater than 45'], 'priors_count': ['-0.0 - 1.0', '1.0 - 2.0', '2.0 - 3.0', '3.0 - 4.0']}",6.0437
+"{'race': ['Caucasian'], 'age_cat': ['Less than 25'], 'priors_count': ['1.0 - 2.0', '4.0 - 8.0'], 'c_charge_degree': ['M']}",5.6891
+"{'priors_count': ['-0.0 - 1.0', '1.0 - 2.0', '4.0 - 8.0'], 'race': ['Caucasian'], 'age_cat': ['Greater than 45', 'Less than 25']}",7.3215
+"{'race': ['Caucasian'], 'sex': ['Male'], 'age_cat': ['25 - 45'], 'priors_count': ['3.0 - 4.0', '4.0 - 8.0', '8.0 - 38.0'], 'c_charge_degree': ['M']}",5.8496
+"{'priors_count': ['3.0 - 4.0', '4.0 - 8.0'], 'age_cat': ['Greater than 45'], 'race': ['Hispanic']}",7.1794
+"{'priors_count': ['2.0 - 3.0', '3.0 - 4.0', '8.0 - 38.0'], 'c_charge_degree': ['M'], 'sex': ['Male'], 'race': ['African-American', 'Hispanic']}",6.6081
+"{'race': ['Asian', 'Caucasian', 'Other'], 'age_cat': ['25 - 45'], 'priors_count': ['-0.0 - 1.0', '1.0 - 2.0', '3.0 - 4.0'], 'c_charge_degree': ['M']}",7.6079
+"{'priors_count': ['-0.0 - 1.0', '1.0 - 2.0', '3.0 - 4.0', '4.0 - 8.0', '8.0 - 38.0'], 'c_charge_degree': ['M'], 'sex': ['Male'], 'age_cat': ['25 - 45', 'Less than 25'], 'race': ['African-American', 'Asian', 'Native American', 'Other']}",7.3293
+"{'priors_count': ['-0.0 - 1.0', '1.0 - 2.0', '4.0 - 8.0', '8.0 - 38.0'], 'c_charge_degree': ['F'], 'sex': ['Male'], 'age_cat': ['25 - 45', 'Less than 25'], 'race': ['African-American', 'Asian', 'Hispanic', 'Native American']}",6.4795
+"{'priors_count': ['-0.0 - 1.0', '8.0 - 38.0'], 'c_charge_degree': ['F'], 'age_cat': ['25 - 45', 'Less than 25'], 'race': ['Other']}",5.8417
+"{'race': ['Asian', 'Caucasian', 'Hispanic'], 'age_cat': ['Less than 25'], 'priors_count': ['2.0 - 3.0', '3.0 - 4.0', '4.0 - 8.0', '8.0 - 38.0'], 'c_charge_degree': ['F']}",7.417
+"{'priors_count': ['-0.0 - 1.0', '8.0 - 38.0'], 'sex': ['Male'], 'race': ['Asian', 'Caucasian', 'Hispanic'], 'age_cat': ['Less than 25'], 'c_charge_degree': ['F']}",7.5054
+"{'priors_count': ['-0.0 - 1.0', '1.0 - 2.0', '4.0 - 8.0'], 'sex': ['Female'], 'race': ['Caucasian', 'Hispanic'], 'age_cat': ['25 - 45', 'Less than 25'], 'c_charge_degree': ['M']}",5.1784
+"{'priors_count': ['-0.0 - 1.0', '3.0 - 4.0', '4.0 - 8.0', '8.0 - 38.0'], 'race': ['Asian', 'Hispanic', 'Native American'], 'age_cat': ['Greater than 45', 'Less than 25'], 'c_charge_degree': ['F']}",7.0013
+"{'priors_count': ['1.0 - 2.0'], 'sex': ['Male'], 'race': ['Caucasian', 'Native American', 'Other'], 'age_cat': ['25 - 45', 'Greater than 45'], 'c_charge_degree': ['M']}",5.7695
+"{'priors_count': ['-0.0 - 1.0', '1.0 - 2.0', '2.0 - 3.0', '4.0 - 8.0', '8.0 - 38.0'], 'sex': ['Male'], 'race': ['African-American', 'Asian'], 'age_cat': ['Less than 25'], 'c_charge_degree': ['M']}",4.9672
+"{'priors_count': ['-0.0 - 1.0', '1.0 - 2.0', '2.0 - 3.0', '4.0 - 8.0'], 'sex': ['Male'], 'race': ['Native American', 'Other'], 'age_cat': ['Less than 25']}",5.3071
+"{'priors_count': ['1.0 - 2.0'], 'sex': ['Female'], 'race': ['Caucasian', 'Hispanic'], 'age_cat': ['25 - 45']}",5.5902
+"{'age_cat': ['25 - 45'], 'priors_count': ['-0.0 - 1.0', '1.0 - 2.0', '4.0 - 8.0'], 'c_charge_degree': ['F'], 'race': ['Native American']}",6.3466
+"{'priors_count': ['-0.0 - 1.0', '3.0 - 4.0', '4.0 - 8.0'], 'sex': ['Female'], 'age_cat': ['Greater than 45'], 'race': ['Caucasian', 'Native American']}",5.5119
+"{'priors_count': ['1.0 - 2.0', '4.0 - 8.0'], 'sex': ['Male'], 'race': ['African-American', 'Caucasian', 'Hispanic'], 'age_cat': ['Greater than 45'], 'c_charge_degree': ['M']}",5.3999
+"{'age_cat': ['25 - 45'], 'priors_count': ['3.0 - 4.0', '4.0 - 8.0'], 'c_charge_degree': ['F'], 'race': ['Other']}",5.9763
+"{'race': ['African-American', 'Caucasian', 'Hispanic'], 'sex': ['Female'], 'age_cat': ['25 - 45', 'Greater than 45'], 'priors_count': ['-0.0 - 1.0']}",4.6351
+"{'race': ['Caucasian', 'Native American', 'Other'], 'age_cat': ['25 - 45', 'Less than 25'], 'priors_count': ['-0.0 - 1.0', '1.0 - 2.0'], 'sex': ['Male']}",3.838
+"{'age_cat': ['25 - 45'], 'race': ['African-American', 'Caucasian', 'Hispanic', 'Native American'], 'sex': ['Male'], 'priors_count': ['3.0 - 4.0', '8.0 - 38.0']}",6.7981
+"{'priors_count': ['2.0 - 3.0', '3.0 - 4.0', '8.0 - 38.0'], 'race': ['African-American', 'Asian', 'Caucasian'], 'age_cat': ['25 - 45', 'Greater than 45'], 'c_charge_degree': ['F']}",5.7677
+"{'race': ['Other'], 'age_cat': ['Less than 25'], 'priors_count': ['-0.0 - 1.0', '1.0 - 2.0', '3.0 - 4.0', '4.0 - 8.0', '8.0 - 38.0']}",4.4228
+"{'priors_count': ['1.0 - 2.0', '3.0 - 4.0', '8.0 - 38.0'], 'sex': ['Male'], 'race': ['Other'], 'age_cat': ['25 - 45']}",5.2168
+"{'priors_count': ['1.0 - 2.0', '8.0 - 38.0'], 'c_charge_degree': ['F'], 'sex': ['Female'], 'age_cat': ['Greater than 45'], 'race': ['African-American', 'Hispanic']}",5.4804

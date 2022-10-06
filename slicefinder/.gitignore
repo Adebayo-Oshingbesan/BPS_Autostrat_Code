@@ -1,0 +1,12 @@
+data/*
+log/*
+figures/*
+
+*.xlsx
+*.pdf
+*.png
+*.swp
+*.pyc
+*.p
+*.ps
+*.dot

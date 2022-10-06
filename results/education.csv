@@ -1,0 +1,6 @@
+method,subset,lift,support,odds_ratio,mdss_score,quality_score,time
+mdss,"{'imd_band': ['0-10%', '10-20', '20-30%', '30-40%', '40-50%', '50-60%', '60-70%', '80-90%'], 'studied_credits': ['120.0 - 655.0', '90.0 - 120.0'], 'region': ['East Anglian Region', 'East Midlands Region', 'London Region', 'North Region', 'North Western Region', 'Scotland', 'South East Region', 'South Region', 'South West Region', 'West Midlands Region', 'Yorkshire Region']}",1.4724620104944357,0.20367193952099613,2.2589842507100446,308.7639,0.0303212743774766,25.437177081
+pysubgroup - beam search,{'studied_credits': ['90.0 - 120.0']},1.294611324650737,0.19700146115240455,1.6679527772618592,118.4388,0.018288085425581177,0.7203770329999912
+pysubgroup - apriori,{'studied_credits': ['90.0 - 120.0']},1.294611324650737,0.19700146115240455,1.6679527772618592,118.4388,0.018288085425581177,6.7160856770000095
+divexplorer - fpgrowth,"{'num_of_prev_attempts': ['0'], 'studied_credits': ['90.0 - 120.0']}",1.314872186852952,0.15885267772060224,1.6795547634485055,108.8191,0.01576079782134635,11.73266694599998
+slice finder - lattice,"{'region': ['North Western Region'], 'num_of_prev_attempts': ['2']}",1.8512600806451613,0.001905850962454736,3.0502579666160856,9.1307,0.000511211436771775,260.772388852
